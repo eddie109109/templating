@@ -92,8 +92,8 @@ int main() {
   // cout << instance.size() << endl;
   instance.push(11);
   instance.push(12);
-  instance.push(13);
-  instance.push(13);
+  // instance.push(13);
+  // instance.push(13);
   // cout << instance.top() << endl;
   // cout << instance.size() << endl;
 }
